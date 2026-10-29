@@ -1,0 +1,16 @@
+# 编译产物
+java/out/
+build/pkg/
+*.class
+
+# 打包产物（61MB，不进仓库）
+dist/
+
+# 个人存档与配置
+save/
+config/
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+*.log
